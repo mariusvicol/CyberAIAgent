@@ -22,13 +22,3 @@ def split_documents(documents, chunk_size=1000, chunk_overlap=200):
         length_function=len
     )
     return text_splitter.split_documents(documents)
-
-
-# === RUN ===
-url_list = load_urls('data/urls.txt')
-loaded_texts = load_text(url_list)
-split_texts = split_documents(loaded_texts)
-
-print(f"✅ Number of documents loaded: {len(loaded_texts)}")
-print(f"✅ Number of split documents: {len(split_texts)}")
-

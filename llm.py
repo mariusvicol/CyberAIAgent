@@ -9,3 +9,6 @@ llm = ChatOpenAI(
     api_key="asd",
     base_url="https://lmstudio.ccrolabs.com/v1",
 )
+
+def get_llm():
+    return llm
