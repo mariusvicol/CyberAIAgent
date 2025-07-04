@@ -1,0 +1,15 @@
+https://owasp.org/www-project-top-ten/
+https://cheatsheetseries.owasp.org/
+https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+https://docs.docker.com/engine/security/
+https://sysdig.com/blog/dockerfile-best-practices/
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/
+https://kubernetes.io/docs/concepts/security/overview/
+https://nvd.nist.gov/vuln/data-feeds
+https://github.com/nomi-sec/PoC-in-GitHub
+https://www.cisecurity.org/cis-benchmarks
+https://snyk.io/learn/
+https://cwe.mitre.org/top25/archive/2023/2023_cwe_top25.html
+https://github.com/toniblyx/my-arsenal-of-security-tools/blob/master/readme.md#python
+https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
+https://github.com/lirantal/nodejs-security-best-practices
